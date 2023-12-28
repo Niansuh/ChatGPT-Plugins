@@ -5,7 +5,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     name: "WebSearch",
     toolName: "web-search",
     lang: "en",
-    description: "Web search function tool for search engines.",
+    description: "Web search tool.",
     builtin: true,
     createdAt: 1693744292000,
     enable: true,
@@ -16,7 +16,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     toolName: "calculator",
     lang: "en",
     description:
-      "The Calculator class is a tool used to evaluate mathematical expressions. It extends the base Tool class.",
+      "Evaluates math, extends Tool.",
     builtin: true,
     createdAt: 1693744292000,
     enable: true,
@@ -27,7 +27,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     toolName: "web-browser",
     lang: "en",
     description:
-      "A class designed to interact with web pages, either to extract information from them or to summarize their content.",
+      "Extract or summarize content.",
     builtin: true,
     createdAt: 1693744292000,
     enable: true,
@@ -38,7 +38,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     toolName: "WikipediaQueryRun",
     lang: "en",
     description:
-      "A tool for interacting with and fetching data from the Wikipedia API.",
+      "Wikipedia API tool.",
     builtin: true,
     createdAt: 1694235989000,
     enable: false,
@@ -48,7 +48,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     name: "Arxiv",
     toolName: "arxiv",
     lang: "en",
-    description: "Arxiv search and get the article information.",
+    description: "Arxiv article search tool.",
     builtin: true,
     createdAt: 1699265115000,
     enable: false,
@@ -59,7 +59,7 @@ export const EN_PLUGINS: BuiltinPlugin[] = [
     toolName: "pdf-browser",
     lang: "en",
     description:
-      "A class designed to interact with pdf file, extract information from the URL of a PDF file or summarize its content.",
+      "Summarize content, extract URLs.",
     builtin: true,
     createdAt: 1700907315000,
     enable: false,
