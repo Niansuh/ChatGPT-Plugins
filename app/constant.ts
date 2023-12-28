@@ -1,4 +1,4 @@
-export const OWNER = "chokiproai";
+export const OWNER = "Niansuh";
 export const REPO = "ChatGPT-Plugins";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
@@ -94,7 +94,7 @@ Latex block: $$e=mc^2$$
 export const SUMMARIZE_MODEL = "gpt-3.5-turbo";
 
 export const KnowledgeCutOffDate: Record<string, string> = {
-  default: "2021-09",
+  default: "2022-01",
   "gpt-4-1106-preview": "2023-04",
   "gpt-4-vision-preview": "2023-04",
 };
