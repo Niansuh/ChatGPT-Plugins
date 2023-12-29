@@ -1,6 +1,6 @@
 <h1 align="center">ChatGPT Plugins</h1>
 
-## [部署在 Hugging Face 上](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fchatgptfree%3Fduplicate%3Dtrue)
+## [部署在 Hugging Face 上](https://huggingface.co/login?next=%2Fspaces%2FNiansuh%2Fchatgptfree%3Fduplicate%3Dtrue)
 
 - 一键获得精心设计的跨平台 ChatGPT Web UI。
 
@@ -54,7 +54,7 @@
 
 ### `反向代理`
 
-可使用免费的“ChatGPTUnofficialProxyAPI”。[详细信息](https://github.com/chokiproai/ChatGPT-Plugins/blob/master/api%20free.md)
+可使用免费的“ChatGPTUnofficialProxyAPI”。[详细信息](https://github.com/Niansuh/ChatGPT-Plugins/blob/master/api%20free.md)
 
 ### `代码`（可选）
 
@@ -116,7 +116,7 @@ OPENAI_API_KEY=<此处为您的 api 密钥>
 ### 壳
 
 ````外壳
-bash <(curl -s https://raw.githubusercontent.com/chokiproai/ChatGPT-Plugins/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Niansuh/ChatGPT-Plugins/main/scripts/setup.sh)
 ````
 
 ## 执照
