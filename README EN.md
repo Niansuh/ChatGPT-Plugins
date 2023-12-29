@@ -55,7 +55,7 @@ Your openai api key.
 
 ### `Reverse Proxy`
 
-Available when using free `ChatGPTUnofficialProxyAPI`.[Details](https://github.com/chokiproai/ChatGPT-Plugins/blob/master/api%20free.md)
+Available when using free `ChatGPTUnofficialProxyAPI`.[Details](https://github.com/Niansuh/ChatGPT-Plugins/blob/master/api%20free.md)
 
 ### `CODE` (optional)
 
@@ -117,7 +117,7 @@ yarn dev
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/chokiproai/ChatGPT-Plugins/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Niansuh/ChatGPT-Plugins/main/scripts/setup.sh)
 ```
 
 ## LICENSE
