@@ -1,6 +1,6 @@
 <h1 align="center">ChatGPT Plugins</h1>
 
- ## [Deployed on Hugging Face](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fchatgptfree%3Fduplicate%3Dtrue)
+ ## [Deployed on Hugging Face](https://huggingface.co/login?next=%2Fspaces%2FNiansuh%2Fchat%3Fduplicate%3Dtrue)
 
 - One-Click to get well-designed cross-platform ChatGPT web UI.
 
@@ -55,7 +55,7 @@ Your openai api key.
 
 ### `Reverse Proxy`
 
-Available when using free `ChatGPTUnofficialProxyAPI`.[Details](https://github.com/chokiproai/ChatGPT-Plugins/blob/master/api%20free.md)
+Available when using free `ChatGPTUnofficialProxyAPI`.[Details](https://github.com/Niansuh/ChatGPT-Plugins/blob/master/api%20free.md)
 
 ### `CODE` (optional)
 
@@ -117,7 +117,7 @@ yarn dev
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/chokiproai/ChatGPT-Plugins/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Niansuh/ChatGPT-Plugins/main/scripts/setup.sh)
 ```
 
 ## LICENSE
