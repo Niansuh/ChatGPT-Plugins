@@ -1,6 +1,6 @@
 <h1 align="center">Plugin ChatGPT</h1>
 
-  ## [Đã triển khai trên Ôm mặt](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fchatgptfree%3Fduplicate%3Dtrue)
+  ## [Đã triển khai trên Ôm mặt](https://huggingface.co/login?next=%2Fspaces%2FNiansuh%2Fchat%3Fduplicate%3Dtrue)
 
 - Một cú nhấp chuột để có được giao diện người dùng web ChatGPT đa nền tảng được thiết kế tốt.
 
@@ -54,7 +54,7 @@ Khóa api openai của bạn.
 
 ### `Proxy ngược`
 
-Có sẵn khi sử dụng `ChatGPTUnofficialProxyAPI` miễn phí.[Chi tiết](https://github.com/chokiproai/ChatGPT-Plugins/blob/master/api%20free.md)
+Có sẵn khi sử dụng `ChatGPTUnofficialProxyAPI` miễn phí.[Chi tiết](https://github.com/Niansuh/ChatGPT-Plugins/blob/master/api%20free.md)
 
 ### `CODE` (tùy chọn)
 
@@ -116,7 +116,7 @@ nhà phát triển sợi
 ### Vỏ bọc
 
 ``` vỏ
-bash <(curl -s https://raw.githubusercontent.com/chokiproai/ChatGPT-Plugins/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Niansuh/ChatGPT-Plugins/main/scripts/setup.sh)
 ```
 
 ## GIẤY PHÉP
